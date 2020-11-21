@@ -1,13 +1,13 @@
 let rooms ={
     room1: [
-    {id: 1,name:"poster1", link:"https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg", type:"image"},
+    {id: 1,name:"poster1", link:"https://amazingy.com/images/detailed/5/Tata_Harper_-_Illuminating_Eye_Cream_on_Face.jpg", type:"image"},
     {id: 2,name:"poster2", link:"https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg", type:"image"},
     {id: 3,name:"poster3", link:"https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg", type:"image"},
     {id: 4,name:"poster4", link:"https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg", type:"image"},
     {id: 5,name:"poster5", link:"https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg", type:"image"},
     {id: 6,name:"poster6", link:"https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg", type:"image"},
     {id: 7,name:"poster7", link:"https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg", type:"image"},
-    {id: 8,name:"poster7", link:"https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg", type:"image"},
+    {id: 8,name:"poster7", link:"https://twitter.com/SERC_IIITH/status/853133280559890435/photo/1", type:"image"},
     ],
     room2: [
     {id: 1,name:"poster1", link:"https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg", type:"image"},
@@ -113,5 +113,9 @@ let rooms ={
     {id:21,name:"poster7", link:"https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg", type:"image"},
     
     ],
-  
+    room8: [
+    {id: 1,name:"poster1", link:"https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg", type:"video"},
+    {id: 2,name:"poster2", link:"https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg", type:"video"},
+    {id: 3,name:"poster3", link:"https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg", type:"video"},
+    ],
 }
